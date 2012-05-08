@@ -1,0 +1,72 @@
+{
+   "title":"Goldman Sachs and the Financial Crisis",
+   "annotations":[
+     
+   ],
+   "sections":[
+      {
+         "title":"Subcommittee's Statement on Tuesday's Hearing on Goldman",
+         "pages":"1-2"
+      },
+      {
+         "title":"Exhibits Include Four Goldman E-Mail Messages",
+         "pages":"3-3"
+      },
+      {
+         "title":"Exhibit #101: November 18, 2007",
+         "pages":"4-4"
+      },
+      {
+         "title":"Exhibit #102: October 11, 2007",
+         "pages":"5-6"
+      },
+      {
+         "title":"Exhibit #103: May 17, 2007",
+         "pages":"7-8"
+      },
+      {
+         "title":"Exhibit #104: July 25, 2007",
+         "pages":"9-10"
+      },
+      {
+         "title":"Goldman Sachs' Response",
+         "pages":"11-22"
+      },
+      {
+         "title":"E-Mail Exchanges Among Goldman Executives",
+         "pages":"23-52"
+      },
+      {
+         "title":"Presentation to Goldman Board, September 2007",
+         "pages":"53-68"
+      },
+      {
+         "title":"Daily Mortgage VaR",
+         "pages":"69-70"
+      },
+      {
+         "title":"Summary of Goldman's Response to Mortgage Crisis",
+         "pages":"71-74"
+      },
+      {
+         "title":"Additional E-Mail Exchanges Among Goldman Executives",
+         "pages":"75-79"
+      },
+      {
+         "title":"E-Mail Exchanges Involving Fabrice Tourre",
+         "pages":"80-100"
+      }
+   ],
+   "resources":{
+      "related_story":"http://www.nytimes.com/2010/04/25/business/25goldman.html",
+      "page":{
+         "text":"http://documents.nytimes.com/goldman-sachs-internal-emails/pages/p{page}.txt",
+         "image":"http://s3.amazonaws.com/nytdocs/docs/322/pages/322-p{page}-{size}.gif"
+      },
+      "pdf":"http://s3.amazonaws.com/nytdocs/docs/322/322.pdf",
+      "search":"http://documents.nytimes.com/goldman-sachs-internal-emails/search.json?q={query}"
+   },
+   "id":"goldman-sachs-internal-emails",
+   "pages":100,
+   "description":"The Senate Permanent Subcommittee on Investigations released e-mail messages on April 24, 2010, from Goldman Sachs executives that discussed the firm\u2019s practices involving mortgage-backed securities and collateralized debt obligations. \r\n<p></p>\r\nThe documents released by Goldman, including numerous e-mail messages, explain how the firm handled the financial crisis itself and dealt with questions about its actions."
+}
