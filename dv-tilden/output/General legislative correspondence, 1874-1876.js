@@ -1,7 +1,7 @@
 DV.loadJSON({
    "id":"General legislative correspondence, 1874-1876",
    "title":"General legislative correspondence, 1874-1876",
-   "description":"Launched last year, Torrance\u2019s crime map promised to use cutting-edge technology to notify residents of the latest crimes in their community. But a Times review has found that the Torrance Police Department deliberately withholds information on hundreds of crimes across the city, including some of the most serious.\r\n\r\nMore than 150 theft reports filed at the Del Amo mall in the months after the map launched are missing. So are eight rapes recorded by Torrance police and scores of other crimes that the department deems \u201cconfidential.\u201d <a href=\"http://www.latimes.com/news/local/la-me-torrance-crimes-20110522,0,1191195.story\">Read more \u00bb</a>",
+   "description":"Just a bunch of Sammy J. Tilden's correspondence. Nothing more.",
    "source":"Los Angeles City Controller",
    "created_at":"Sun, 22 May 2011 14:12:31 +0000",
    "updated_at":"Fri, 27 Apr 2012 10:29:44 +0000",
