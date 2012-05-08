@@ -205,10 +205,10 @@ _.extend(DV.Schema.helpers, {
       this.viewer.$('.DV-textView').hide();
     }
 
-    // Hide the Pages tab if there is only 1 page in the document.
-    if (!showPages) {
-      this.viewer.$('.DV-thumbnailsView').hide();
-    }
+    // Hide the Pages tab SO NOT TO KILL DJATOKA
+  
+  this.viewer.$('.DV-thumbnailsView').hide();
+  
 
     // Hide the Documents tab if it's the only tab left.
     if (!showAnnotations && !showPages && !showSearch) {
