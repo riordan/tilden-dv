@@ -416,7 +416,8 @@ DV.Schema.helpers = {
 
       var height = this.models.pages.height;
       for (var i = 0; i < totalPagesToCreate; i++) {
-        pages.push(JST.pages({ pageNumber: i+1, pageIndex: i , pageImageSource: null, baseHeight: height }));
+        //added in UUID
+        pages.push(JST.pages({ pageNumber: i+1, pageIndex: i , pageImageSource: null, baseHeight: height, uuid: this.viewer.schema.document.resources.djID[i] }));
       }
 
       return pages.join('');

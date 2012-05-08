@@ -1,7 +1,214 @@
 {
    "title":"Goldman Sachs and the Financial Crisis",
    "annotations":[
-     
+      {
+         "location":{
+            "image":"280,648,325,53"
+         },
+         "title":"Subcommittee's Statement on Exhibit #101",
+         "page":4,
+         "content":"\"In one of the emails released today, Mr. Blankfein stated that the firm came out ahead in the mortgage crisis by taking short positions. In an email exchange with other top Goldman Sachs executives, Mr. Blankfein wrote: 'Of course we didn't dodge the mortgage mess. We lost money, then we made more than we lost because of shorts.'\" - Subcommittee Statement, <a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails#document/p1\">Page 1</a>."
+      },
+      {
+         "location":{
+            "image":"151,374,276,43"
+         },
+         "title":"Subcommittee's Statement on Exhibit #102",
+         "page":5,
+         "content":"\"A Goldman Sachs manager reacted to news that the credit rating agencies had downgraded $32 billion in mortgage related securities - causing losses for many investors - by noting that Goldman had bet against them: 'Sounds like we will make some serious money.' His colleague responded: 'Yes we are well positioned.'\" - Subcommittee Statement, <a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails#document/p2\">Page 2</a>."
+      },
+      {
+         "location":{
+            "image":"164,609,302,53"
+         },
+         "title":"Subcommittee's Statement on Exhibit #103",
+         "page":7,
+         "content":"\"Goldman employees discussed the ups and downs of securities that were underwritten and sold by Goldman and tied to mortgages issues by Washington Mutual Bank's subprime lender, Long Beach Mortgage Company. Reporting the 'wipeout' of one Long Beach security and 'imminent' collapse of another as 'bad news' that would cost the firm $2.5 million, a Goldman Sachs employee then reported the 'good news' \u2014 that the failure would bring the firm $5 million from a bet it had placed against the very securities it had assembled and sold.\" - Subcommittee Statement, <a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails#document/p2\">Page 2</a>."
+      },
+      {
+         "location":{
+            "image":"158,550,200,50"
+         },
+         "title":"Subcommittee's Statement on Exhibit #104",
+         "page":9,
+         "content":"\"Goldman Sachs Chief Financial Officer David Viniar, who also will testify on Tuesday, responded to a report on the firm's trading activities, showing that - in one day - the firm netted over $50 million by taking short positions that increased in valued as the mortgage market cratered. Mr. Viniar wrote: 'Tells you what might be happening to people who don't have the big short.'\" - Subcommittee Statement, <a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails#document/p1\">Page 1</a>."
+      },
+      {
+         "location":{
+            "image":"321,490,349,302"
+         },
+         "title":"Read Corresponding E-Mail From Daniel Sparks",
+         "page":15,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p24\">December 5, 2006 e-mail from Daniel Sparks on subprime market</a>."
+      },
+      {
+         "location":{
+            "image":"402,622,644,66"
+         },
+         "title":"Read Corresponding E-Mail Exchange Between David Viniar and Tom Montag.",
+         "page":15,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p25\">December 14, 2006 e-mail exchange between David Viniar, the firm's chief financial officer, and Tom Montag, the then-co-head of Goldman's Securities Division.</a>."
+      },
+      {
+         "location":{
+            "image":"692,619,736,78"
+         },
+         "title":"Read Corresponding E-Mail From Daniel Sparks to Senior Management",
+         "page":15,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p26\">The December 17, 2006 e-mail from Mr. Sparks updated senior management on risk</a>."
+      },
+      {
+         "location":{
+            "image":"78,598,118,74"
+         },
+         "title":"Read Corresponding E-Mail From Daniel Sparks to Senior Management",
+         "page":16,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p23\">On February 14, 2007, Mr. Sparks outlined plans to reduce risk</a>."
+      },
+      {
+         "location":{
+            "image":"235,620,406,77"
+         },
+         "title":"Read Corresponding E-Mail From Daniel Sparks to Goldman's Mortgage Desk",
+         "page":16,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p29\">The February 22, 2007 e-mail from Mr. Sparks to the firm's mortgage desk on \"reducing short positions.\"</a>"
+      },
+      {
+         "location":{
+            "image":"556,619,638,77"
+         },
+         "title":"Bernanke's Testimony Before the Joint Economic Committee on March 28, 2007",
+         "page":16,
+         "content":"<a href=\"http://www.federalreserve.gov/newsevents/testimony/bernanke20070328a.htm\">Read Ben S. Bernanke's full testimony</a>."
+      },
+      {
+         "location":{
+            "image":"81,567,151,122"
+         },
+         "title":"Read Corresponding E-Mail From Gary Cohn",
+         "page":17,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p33\">An e-mail dated March 6, 2007, Gary Cohn, Goldman's president and chief operating officer</a>."
+      },
+      {
+         "location":{
+            "image":"165,571,217,122"
+         },
+         "title":"Read Corresponding E-Mail From Daniel Sparks",
+         "page":17,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p35\">On March 8, 2007, Mr. Sparks' comment on covering shorts</a>."
+      },
+      {
+         "location":{
+            "image":"228,567,277,120"
+         },
+         "title":"Read Corresponding E-Mail From Tom Montag to Lloyd Blankfein",
+         "page":17,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p28\">March 14, 2007: Tom Montag's comment on reducing risk</a>."
+      },
+      {
+         "location":{
+            "image":"291,577,389,122"
+         },
+         "title":"Read Corresponding E-Mail Between Daniel Sparks and Kevin Gasvoda",
+         "page":17,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p38\">An e-mail exchange on April 11, 2007, between Dan Sparks and Kevin Gasvoda</a>."
+      },
+      {
+         "location":{
+            "image":"543,623,641,78"
+         },
+         "title":"Read Corresponding E-Mail Discussing the Direction of the Residential Mortgage Market",
+         "page":17,
+         "content":"On March 8, 2007, <a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p35\">Mr. Spark' e-mail</a> discussing the direction of the residential mortgage market.\r\n<p></p>\r\nOn March 14, <a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p43\">Jon Winkelried suggests the firm should prepare for a downturn in securities</a>."
+      },
+      {
+         "location":{
+            "image":"256,622,335,78"
+         },
+         "title":"Read Corresponding E-Mail Exhange on Opportunities in the Subprime Market",
+         "page":18,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p37\">In an e-mail on March 9, 2007, Mr. Sparks discussed the potential of subprime opportunities</a>."
+      },
+      {
+         "location":{
+            "image":"540,587,622,119"
+         },
+         "title":"Read Corresponding E-Mail From Daniel Sparks",
+         "page":18,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p51\">On August 20, 2007, Mr. Sparks' suggests Goldman should begin buying assets</a>."
+      },
+      {
+         "location":{
+            "image":"631,582,715,115"
+         },
+         "title":"Read Corresponding E-Mail From Josh Birnbaum",
+         "page":18,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p52\">On August 20, 2007, Josh Birnbaum also discusses buying opportunities</a>."
+      },
+      {
+         "location":{
+            "image":"132,608,178,78"
+         },
+         "title":"Goldman Presentation to Directors, Sept. 17, 2007",
+         "page":19,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p53\">Presentation on Residential Mortgage Business</a>, Sept. 17, 2007."
+      },
+      {
+         "location":{
+            "image":"223,619,325,78"
+         },
+         "title":"Read Corresponding E-Mail From Lucas van Praag",
+         "page":19,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p50\">An exchange on November 18, 2007, discussed whether Goldman profited from the subprime market collapse</a>."
+      },
+      {
+         "location":{
+            "image":"332,616,399,78"
+         },
+         "title":"Document: Goldman Response to Mortgage Crisis, November 2007",
+         "page":19,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p71\">Discussion prepared for November 2007 earnings call</a>."
+      },
+      {
+         "location":{
+            "image":"335,602,370,71"
+         },
+         "title":"Read Corresponding Mortgage Risk Document",
+         "page":20,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p69\">Mortgage VaR change between November 24, 2006 and February 23, 2007</a>."
+      },
+      {
+         "location":{
+            "image":"476,619,540,76"
+         },
+         "title":"Read Corresponding E-Mail From Daniel Sparks",
+         "page":20,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p76\">On February 14, 2007, Mr. Sparks discussed the rapidly changing subprime situation</a>."
+      },
+      {
+         "location":{
+            "image":"553,606,587,73"
+         },
+         "title":"Read Corresponding E-Mail From Daniel Sparks to Jon Winkelried",
+         "page":20,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p78\">An exchange on February 21, 2007, between Mr. Sparks and Mr. Winkelried on the subprime market.</a>"
+      },
+      {
+         "location":{
+            "image":"76,617,127,83"
+         },
+         "title":"Read Corresponding E-Mail From Bill McMahon",
+         "page":21,
+         "content":"<a href=\"http://documents.nytimes.com/goldman-sachs-internal-emails?ref=business#document/p75\">An e-mail dated August 15, 2007 from Bill McMahon on reducing Goldman's risk</a>."
+      },
+      {
+         "location":{
+            "image":"465,627,594,78"
+         },
+         "title":"Goldman Sachs' 2009 Annual Report",
+         "page":22,
+         "content":"<a href=\"http://www2.goldmansachs.com/our-firm/investors/financials/current/annual-reports/2009-complete-annual.pdf\">Letter to shareholders (pdf) </a>."
+      }
    ],
    "sections":[
       {

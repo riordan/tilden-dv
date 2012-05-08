@@ -1,5 +1,5 @@
 <% for (; page <= endPage; page++) { %>
-  <% var url = imageUrl.replace(/\{page\}/, page) ; %>
+  <% var url = imageUrl.replace(/\{page\}/, djID[page-1]) ; %>
   <div class="DV-thumbnail" id="DV-thumbnail-<%= page %>" data-pageNumber="<%= page %>">
     <div class="DV-overlay">
       <div class='DV-caret'></div>

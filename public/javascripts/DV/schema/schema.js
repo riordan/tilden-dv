@@ -25,9 +25,16 @@ DV.Schema.prototype.importCanonicalDocument = function(json) {
   json.canonicalURL           = json.canonical_url;
 
   this.document               = DV.jQuery.extend(true, {}, json);
+
+  //Rewrite pagenums based on UUID array length
+  console.log(this.document);
+  this.document.pages = this.document.resources.djID.length;
+  console.log(this.document);
+
+
   // Everything after this line is for back-compatibility.
   this.data.title             = json.title;
-  this.data.totalPages        = json.pages;
+  this.data.totalPages        = this.document.pages;
   this.data.totalAnnotations  = json.annotations.length;
   this.data.sections          = json.sections;
   this.data.chapters          = [];

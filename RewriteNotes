@@ -1,0 +1,14 @@
+Notes on a rewrite: Making DocumentViewer work with NYPL's Djatoka server & URL structure:
+
+Part 1:
+	JSON:
+		JSON format will need modification as will parser
+		Needs to:
+			take an array of UUID's corresponding to repository IDs
+			Take a base URL to djatoka server
+		maybe should: eliminate number of pages and instead calculate from the array of UUID's.
+
+		Parser needs to:
+			take array and assign to individual page objects
+		I believe each page is represented as an object and the URL to that page is stored in there, rather than calculated on the fly (this may be completely wrong)
+

@@ -4,7 +4,8 @@ DV.Thumbnails = function(viewer){
   this.currentIndex    = 0;
   this.zoomLevel       = null;
   this.scrollTimer     = null;
-  this.imageUrl        = viewer.schema.document.resources.page.image.replace(/\{size\}/, 'small');
+  //Changed thumbnail imageurl  to replace size small with 180px wide djatoka image
+  this.imageUrl        = viewer.schema.document.resources.page.image.replace(/\{size\}/, '180,0');
   this.pageCount       = viewer.schema.document.pages;
   this.viewer          = viewer;
   this.resizeId        = _.uniqueId();
@@ -36,7 +37,9 @@ DV.Thumbnails.prototype.buildThumbnails = function(startPage, endPage) {
     page      : startPage,
     endPage   : endPage,
     zoom      : this.zoomLevel,
-    imageUrl  : this.imageUrl
+    imageUrl  : this.imageUrl,
+    //Added this.viewer.schema.document.resources.djID to payload for template
+    djID      : this.viewer.schema.document.resources.djID
   });
   this.el.html(this.el.html() + thumbnailsHTML);
   this.highlightCurrentPage();
